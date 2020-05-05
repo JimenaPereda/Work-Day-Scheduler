@@ -61,12 +61,18 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06AED5;
+    background-color: DodgerBlue;
     color: white;
+    font-size: 16px;
+    cursor: pointer;
   }
-  
-  .saveBtn i:hover {
-    font-size: 20px;
-    transition: all .3s ease-in-out;
-  }
-  
+
+ .fa-folder{
+     position: relative;
+     top:25%;
+     left:25%;
+     font-size: 40px;
+     
+ }
+
+ 
