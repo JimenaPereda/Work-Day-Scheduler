@@ -43,18 +43,18 @@ body {
   }
   
   .past {
-    background-color: #d3d3d3;
+    background-color: #abbdb7;
     color: white;
   }
   
   .present {
-    background-color: #ff6961;
-    color: white;
+    background-color: #d62560;
+    color: rgb(0, 0, 0);
   }
   
   .future {
-    background-color: #77dd77;
-    color: white;
+    background-color: #95f8b6;
+    color: rgb(0, 0, 0);
   }
   
   .saveBtn {
@@ -66,13 +66,13 @@ body {
     font-size: 16px;
     cursor: pointer;
   }
-
  .fa-folder{
      position: relative;
      top:25%;
      left:25%;
-     font-size: 40px;
-     
- }
+     font-size: 40px;   
+ };
+
+ 
 
  
